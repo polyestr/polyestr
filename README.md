@@ -1,4 +1,4 @@
-![Ψ logo](assets/logo.svg?raw=true)
+![Ψ logo](assets/logo.svg)
 
 # Polyestr
 
