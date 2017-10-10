@@ -1,0 +1,9 @@
+{
+    "name": "polyestr",
+    "displayName": "Polyestr",
+    "glyph": "Ψ",
+    "version": "1.0.0-alpha.0",
+    "description": "An application framework using various web technologies.",
+    "author": "Saleh Abdel Motaal <saleh@grasppe.com>",
+    "license": "MIT"
+}
